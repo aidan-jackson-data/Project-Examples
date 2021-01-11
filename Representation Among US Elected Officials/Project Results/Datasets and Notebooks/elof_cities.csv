@@ -1,0 +1,103 @@
+state,city,count
+AL,Birmingham,10
+AZ,Phoenix,9
+AZ,Tucson,7
+AZ,Scottsdale,7
+AZ,Mesa,7
+AZ,Glendale,7
+AZ,Gilbert town,7
+AZ,Chandler,7
+CA,San Francisco,18
+CA,Los Angeles,18
+CA,Long Beach,13
+CA,Oakland,11
+CA,San Jose,11
+CA,San Diego,11
+CA,San Bernardino,11
+CA,Sacramento,9
+CA,Bakersfield,8
+CA,Riverside,8
+CA,Fresno,8
+CA,Fremont,7
+CA,Stockton,7
+CA,Modesto,7
+CA,Santa Ana,7
+CA,Anaheim,7
+CA,Chula Vista,6
+CA,Irvine,5
+CA,San Diego,2
+CO,Denver,16
+CO,Aurora,11
+CO,Colorado Springs,10
+DC,District of Columbia,15
+FL,Duval,20
+FL,St. Petersburg,9
+FL,Tampa,8
+FL,Hialeah,8
+FL,Orlando,7
+FL,Miami,6
+GA,Atlanta,17
+NC,Charlotte,12
+NC,Fayetteville,10
+NC,Winston-Salem,9
+NC,Greensboro,9
+NC,Raleigh,8
+NC,Durham,7
+IA,Des Moines,7
+ID,Boise,7
+IL,Chicago,53
+IN,Marion,35
+IN,Fort Wayne,11
+KS,Wichita,7
+LA,Orleans Parish,14
+MA,Boston,14
+NJ,Newark,10
+NJ,Jersey,10
+MD,Baltimore,21
+MI,Detroit,11
+MN,Minneapolis,14
+MN,St. Paul,8
+MO,St. Louis,35
+MO,Kansas,13
+NE,Omaha,8
+NE,Lincoln,8
+NM,Albuquerque,10
+NV,Reno,8
+NV,Las Vegas,7
+NV,North Las Vegas,5
+NV,Henderson,5
+NY,New York,54
+NY,Buffalo,11
+NY,Rochester,10
+NY,New York,2
+OH,Cleveland,18
+OH,Toledo,14
+OH,Columbus,10
+OH,Cincinnati,10
+OK,Tulsa,11
+OK,Oklahoma,9
+OR,Portland,6
+PA,Philadelphia,25
+PA,Pittsburgh,11
+TN,Memphis,14
+TX,Houston,18
+TX,Dallas,15
+TX,San Antonio,11
+TX,Austin,11
+TX,Laredo,9
+TX,Irving,9
+TX,Garland,9
+TX,Fort Worth,9
+TX,El Paso,9
+TX,Corpus Christi,9
+TX,Arlington,9
+TX,Plano,8
+TX,Lubbock,7
+VA,Virginia Beach,16
+VA,Richmond,14
+VA,Norfolk,13
+VA,Chesapeake,13
+WA,Seattle,11
+WA,Spokane,8
+WI,Madison,21
+WI,Milwaukee,19

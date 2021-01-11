@@ -1,1 +1,3 @@
+Aidan Jackson, Frank Liu, Sam Temlock, Haoyu Zhang
+
 This project was the culmination of work for the first statistics course as part of my Masters program, titled "Statistics for Data Science". The scope of the work focuses on correlation between state demographics/policies and the COVID case rate they experienced. Extra focus is paid towards underlying assumptions or fit of the data towards the analysis being performed, as often required from observational data. 

@@ -1,0 +1,388 @@
+,state,race,sex,elof_count,percentstate_elof
+0,AL,Black or African American,Female,2,0.2
+290,AL,Total,Total,10,1.0
+289,AL,Total,Male,7,0.7
+5,AL,White,Female,1,0.1
+288,AL,Total,Female,3,0.3
+3,AL,Black or African American,Total,7,0.7
+2,AL,White,Male,2,0.2
+4,AL,Black or African American,Male,5,0.5
+1,AL,White,Total,3,0.3
+9,AZ,White,Female,14,0.27450980392156865
+6,AZ,Asian American or Pacific Islander,Male,1,0.0196078431372549
+291,AZ,Total,Female,18,0.35294117647058826
+8,AZ,Hispanic or Latino,Male,7,0.13725490196078433
+7,AZ,Hispanic or Latino,Female,4,0.0784313725490196
+293,AZ,Total,Total,51,1.0
+292,AZ,Total,Male,33,0.6470588235294118
+13,AZ,White,Total,39,0.7647058823529411
+12,AZ,Hispanic or Latino,Total,11,0.21568627450980393
+11,AZ,Asian American or Pacific Islander,Total,1,0.0196078431372549
+10,AZ,White,Male,25,0.49019607843137253
+16,CA,Black or African American,Total,19,0.11176470588235295
+296,CA,Total,Total,170,1.0
+295,CA,Total,Male,117,0.6882352941176471
+15,CA,Asian American or Pacific Islander,Total,21,0.12352941176470589
+294,CA,Total,Female,53,0.31176470588235294
+14,CA,American Indian or Alaska Native,Total,1,0.0058823529411764705
+29,CA,American Indian or Alaska Native,Male,1,0.0058823529411764705
+28,CA,Asian American or Pacific Islander,Female,8,0.047058823529411764
+26,CA,Black or African American,Female,5,0.029411764705882353
+25,CA,Black or African American,Male,14,0.08235294117647059
+24,CA,Hispanic or Latino,Female,14,0.08235294117647059
+23,CA,Hispanic or Latino,Male,30,0.17647058823529413
+22,CA,Multiracial,Male,3,0.01764705882352941
+21,CA,White,Female,26,0.15294117647058825
+20,CA,White,Male,56,0.32941176470588235
+19,CA,White,Total,82,0.4823529411764706
+18,CA,Multiracial,Total,3,0.01764705882352941
+17,CA,Hispanic or Latino,Total,44,0.25882352941176473
+27,CA,Asian American or Pacific Islander,Male,13,0.07647058823529412
+298,CO,Total,Male,20,0.5405405405405406
+297,CO,Total,Female,17,0.4594594594594595
+299,CO,Total,Total,37,1.0
+35,CO,Black or African American,Male,2,0.05405405405405406
+40,CO,White,Male,16,0.43243243243243246
+39,CO,White,Female,9,0.24324324324324326
+38,CO,Multiracial,Female,1,0.02702702702702703
+37,CO,Hispanic or Latino,Male,2,0.05405405405405406
+36,CO,Hispanic or Latino,Female,6,0.16216216216216217
+34,CO,Black or African American,Female,1,0.02702702702702703
+33,CO,Multiracial,Total,1,0.02702702702702703
+31,CO,Black or African American,Total,3,0.08108108108108109
+30,CO,White,Total,25,0.6756756756756757
+32,CO,Hispanic or Latino,Total,8,0.21621621621621623
+300,DC,Total,Female,5,0.35714285714285715
+302,DC,Total,Total,14,1.0
+301,DC,Total,Male,9,0.6428571428571429
+42,DC,White,Total,6,0.42857142857142855
+45,DC,White,Male,3,0.21428571428571427
+41,DC,Black or African American,Female,2,0.14285714285714285
+43,DC,Black or African American,Male,6,0.42857142857142855
+44,DC,White,Female,3,0.21428571428571427
+46,DC,Black or African American,Total,8,0.5714285714285714
+305,FL,Total,Total,57,1.0
+304,FL,Total,Male,40,0.7017543859649122
+303,FL,Total,Female,17,0.2982456140350877
+55,FL,Hispanic or Latino,Total,15,0.2631578947368421
+54,FL,Black or African American,Male,7,0.12280701754385964
+48,FL,Black or African American,Total,13,0.22807017543859648
+49,FL,White,Female,8,0.14035087719298245
+50,FL,Black or African American,Female,6,0.10526315789473684
+51,FL,White,Total,29,0.5087719298245614
+52,FL,Hispanic or Latino,Female,3,0.05263157894736842
+53,FL,White,Male,21,0.3684210526315789
+47,FL,Hispanic or Latino,Male,12,0.21052631578947367
+307,GA,Total,Male,8,0.47058823529411764
+306,GA,Total,Female,9,0.5294117647058824
+308,GA,Total,Total,17,1.0
+61,GA,White,Total,7,0.4117647058823529
+59,GA,Black or African American,Male,3,0.17647058823529413
+56,GA,Black or African American,Total,10,0.5882352941176471
+57,GA,White,Female,2,0.11764705882352941
+58,GA,Black or African American,Female,7,0.4117647058823529
+60,GA,White,Male,5,0.29411764705882354
+62,IA,White,Female,2,0.2857142857142857
+63,IA,White,Male,5,0.7142857142857143
+64,IA,White,Total,7,1.0
+309,IA,Total,Female,2,0.2857142857142857
+311,IA,Total,Total,7,1.0
+310,IA,Total,Male,5,0.7142857142857143
+68,ID,White,Male,3,0.42857142857142855
+67,ID,Hispanic or Latino,Total,1,0.14285714285714285
+66,ID,White,Total,6,0.8571428571428571
+314,ID,Total,Total,7,1.0
+313,ID,Total,Male,3,0.42857142857142855
+69,ID,White,Female,3,0.42857142857142855
+65,ID,Hispanic or Latino,Female,1,0.14285714285714285
+312,ID,Total,Female,4,0.5714285714285714
+70,IL,White,Total,18,0.33962264150943394
+78,IL,Hispanic or Latino,Female,3,0.05660377358490566
+72,IL,Hispanic or Latino,Total,13,0.24528301886792453
+73,IL,Black or African American,Total,21,0.39622641509433965
+77,IL,Black or African American,Male,10,0.18867924528301888
+75,IL,Multiracial,Male,1,0.018867924528301886
+76,IL,Black or African American,Female,11,0.20754716981132076
+315,IL,Total,Female,18,0.33962264150943394
+316,IL,Total,Male,35,0.660377358490566
+317,IL,Total,Total,53,1.0
+80,IL,White,Male,14,0.2641509433962264
+79,IL,White,Female,4,0.07547169811320754
+71,IL,Multiracial,Total,1,0.018867924528301886
+74,IL,Hispanic or Latino,Male,10,0.18867924528301888
+318,IN,Total,Female,15,0.32608695652173914
+319,IN,Total,Male,31,0.6739130434782609
+320,IN,Total,Total,46,1.0
+87,IN,White,Male,25,0.5434782608695652
+88,IN,Black or African American,Female,6,0.13043478260869565
+81,IN,Black or African American,Total,12,0.2608695652173913
+82,IN,White,Total,33,0.717391304347826
+83,IN,Hispanic or Latino,Total,1,0.021739130434782608
+84,IN,Black or African American,Male,6,0.13043478260869565
+85,IN,Hispanic or Latino,Female,1,0.021739130434782608
+86,IN,White,Female,8,0.17391304347826086
+93,KS,White,Female,2,0.2857142857142857
+92,KS,Black or African American,Total,1,0.14285714285714285
+91,KS,White,Total,6,0.8571428571428571
+90,KS,Black or African American,Male,1,0.14285714285714285
+323,KS,Total,Total,7,1.0
+321,KS,Total,Female,2,0.2857142857142857
+322,KS,Total,Male,5,0.7142857142857143
+89,KS,White,Male,4,0.5714285714285714
+98,LA,White,Female,1,0.07142857142857142
+325,LA,Total,Male,9,0.6428571428571429
+95,LA,Black or African American,Total,9,0.6428571428571429
+96,LA,Asian American or Pacific Islander,Female,1,0.07142857142857142
+97,LA,Black or African American,Male,7,0.5
+94,LA,Hispanic or Latino,Female,1,0.07142857142857142
+99,LA,White,Male,2,0.14285714285714285
+101,LA,Black or African American,Female,2,0.14285714285714285
+326,LA,Total,Total,14,1.0
+100,LA,Asian American or Pacific Islander,Total,1,0.07142857142857142
+324,LA,Total,Female,5,0.35714285714285715
+102,LA,Hispanic or Latino,Total,1,0.07142857142857142
+103,LA,White,Total,3,0.21428571428571427
+105,MA,Asian American or Pacific Islander,Total,1,0.07142857142857142
+329,MA,Total,Total,14,1.0
+328,MA,Total,Male,6,0.42857142857142855
+327,MA,Total,Female,8,0.5714285714285714
+104,MA,White,Total,7,0.5
+112,MA,White,Male,5,0.35714285714285715
+113,MA,Hispanic or Latino,Total,1,0.07142857142857142
+109,MA,Hispanic or Latino,Male,1,0.07142857142857142
+108,MA,Black or African American,Female,3,0.21428571428571427
+107,MA,Asian American or Pacific Islander,Female,1,0.07142857142857142
+106,MA,Black or African American,Total,3,0.21428571428571427
+114,MA,Multiracial,Total,2,0.14285714285714285
+110,MA,Multiracial,Female,2,0.14285714285714285
+111,MA,White,Female,2,0.14285714285714285
+330,MD,Total,Female,8,0.38095238095238093
+331,MD,Total,Male,13,0.6190476190476191
+332,MD,Total,Total,21,1.0
+115,MD,Black or African American,Female,6,0.2857142857142857
+122,MD,Multiracial,Female,1,0.047619047619047616
+121,MD,Black or African American,Total,14,0.6666666666666666
+120,MD,Multiracial,Total,1,0.047619047619047616
+119,MD,White,Total,6,0.2857142857142857
+118,MD,White,Male,5,0.23809523809523808
+117,MD,White,Female,1,0.047619047619047616
+116,MD,Black or African American,Male,8,0.38095238095238093
+333,MI,Total,Female,5,0.45454545454545453
+334,MI,Total,Male,6,0.5454545454545454
+335,MI,Total,Total,11,1.0
+129,MI,Hispanic or Latino,Total,1,0.09090909090909091
+127,MI,Hispanic or Latino,Female,1,0.09090909090909091
+123,MI,Black or African American,Total,8,0.7272727272727273
+124,MI,White,Total,2,0.18181818181818182
+125,MI,Black or African American,Female,4,0.36363636363636365
+126,MI,Black or African American,Male,4,0.36363636363636365
+128,MI,White,Male,2,0.18181818181818182
+338,MN,Total,Total,21,1.0
+337,MN,Total,Male,12,0.5714285714285714
+336,MN,Total,Female,9,0.42857142857142855
+143,MN,Multiracial,Male,1,0.047619047619047616
+142,MN,Black or African American,Female,1,0.047619047619047616
+141,MN,Asian American or Pacific Islander,Male,1,0.047619047619047616
+140,MN,Black or African American,Male,2,0.09523809523809523
+139,MN,Asian American or Pacific Islander,Female,1,0.047619047619047616
+137,MN,Multiracial,Female,1,0.047619047619047616
+136,MN,White,Total,13,0.6190476190476191
+135,MN,White,Female,5,0.23809523809523808
+134,MN,White,Male,8,0.38095238095238093
+133,MN,Multiracial,Total,2,0.09523809523809523
+132,MN,Asian American or Pacific Islander,Total,2,0.09523809523809523
+131,MN,Black or African American,Total,3,0.14285714285714285
+130,MN,Hispanic or Latino,Total,1,0.047619047619047616
+138,MN,Hispanic or Latino,Female,1,0.047619047619047616
+340,MO,Total,Male,22,0.4888888888888889
+151,MO,Asian American or Pacific Islander,Male,1,0.022222222222222223
+150,MO,Black or African American,Male,9,0.2
+339,MO,Total,Female,23,0.5111111111111111
+341,MO,Total,Total,45,1.0
+148,MO,White,Male,12,0.26666666666666666
+149,MO,White,Female,13,0.28888888888888886
+147,MO,Black or African American,Female,10,0.2222222222222222
+146,MO,White,Total,25,0.5555555555555556
+145,MO,Black or African American,Total,19,0.4222222222222222
+144,MO,Asian American or Pacific Islander,Total,1,0.022222222222222223
+343,NC,Total,Male,28,0.5185185185185185
+159,NC,Hispanic or Latino,Female,1,0.018518518518518517
+160,NC,Black or African American,Male,11,0.2037037037037037
+161,NC,Black or African American,Female,15,0.2777777777777778
+162,NC,White,Total,24,0.4444444444444444
+163,NC,White,Male,15,0.2777777777777778
+156,NC,Asian American or Pacific Islander,Female,1,0.018518518518518517
+153,NC,Multiracial,Total,2,0.037037037037037035
+154,NC,Asian American or Pacific Islander,Total,1,0.018518518518518517
+342,NC,Total,Female,26,0.48148148148148145
+152,NC,Hispanic or Latino,Total,1,0.018518518518518517
+158,NC,Multiracial,Male,2,0.037037037037037035
+344,NC,Total,Total,54,1.0
+155,NC,Black or African American,Total,26,0.48148148148148145
+157,NC,White,Female,9,0.16666666666666666
+164,NE,Black or African American,Total,3,0.1875
+165,NE,White,Female,5,0.3125
+166,NE,Black or African American,Female,1,0.0625
+167,NE,Black or African American,Male,2,0.125
+168,NE,White,Male,8,0.5
+169,NE,White,Total,13,0.8125
+345,NE,Total,Female,6,0.375
+346,NE,Total,Male,10,0.625
+347,NE,Total,Total,16,1.0
+173,NJ,Asian American or Pacific Islander,Male,1,0.05263157894736842
+174,NJ,Hispanic or Latino,Male,4,0.21052631578947367
+175,NJ,White,Female,1,0.05263157894736842
+176,NJ,White,Total,5,0.2631578947368421
+177,NJ,Hispanic or Latino,Total,4,0.21052631578947367
+178,NJ,Black or African American,Total,9,0.47368421052631576
+179,NJ,Black or African American,Male,5,0.2631578947368421
+171,NJ,White,Male,4,0.21052631578947367
+172,NJ,Black or African American,Female,4,0.21052631578947367
+350,NJ,Total,Total,19,1.0
+349,NJ,Total,Male,14,0.7368421052631579
+348,NJ,Total,Female,5,0.2631578947368421
+170,NJ,Asian American or Pacific Islander,Total,1,0.05263157894736842
+185,NM,White,Total,7,0.7
+184,NM,Hispanic or Latino,Total,3,0.3
+183,NM,Hispanic or Latino,Male,1,0.1
+182,NM,White,Male,4,0.4
+181,NM,Hispanic or Latino,Female,2,0.2
+180,NM,White,Female,3,0.3
+353,NM,Total,Total,10,1.0
+352,NM,Total,Male,5,0.5
+351,NM,Total,Female,5,0.5
+356,NV,Total,Total,25,1.0
+354,NV,Total,Female,13,0.52
+355,NV,Total,Male,12,0.48
+193,NV,White,Female,8,0.32
+186,NV,Hispanic or Latino,Male,3,0.12
+188,NV,Black or African American,Female,2,0.08
+189,NV,White,Male,9,0.36
+190,NV,Black or African American,Total,2,0.08
+191,NV,Hispanic or Latino,Total,6,0.24
+192,NV,White,Total,17,0.68
+187,NV,Hispanic or Latino,Female,3,0.12
+194,NY,Hispanic or Latino,Male,8,0.10526315789473684
+195,NY,Multiracial,Male,1,0.013157894736842105
+196,NY,White,Female,3,0.039473684210526314
+206,NY,Black or African American,Male,15,0.19736842105263158
+199,NY,Multiracial,Total,1,0.013157894736842105
+200,NY,Hispanic or Latino,Female,3,0.039473684210526314
+201,NY,Black or African American,Total,26,0.34210526315789475
+202,NY,Asian American or Pacific Islander,Female,1,0.013157894736842105
+203,NY,Asian American or Pacific Islander,Male,1,0.013157894736842105
+204,NY,Black or African American,Female,11,0.14473684210526316
+207,NY,Hispanic or Latino,Total,11,0.14473684210526316
+198,NY,White,Total,36,0.47368421052631576
+197,NY,White,Male,33,0.4342105263157895
+357,NY,Total,Female,18,0.23684210526315788
+359,NY,Total,Total,76,1.0
+358,NY,Total,Male,58,0.7631578947368421
+205,NY,Asian American or Pacific Islander,Total,2,0.02631578947368421
+216,OH,Hispanic or Latino,Total,1,0.019230769230769232
+213,OH,White,Male,23,0.4423076923076923
+214,OH,White,Total,28,0.5384615384615384
+215,OH,Multiracial,Total,2,0.038461538461538464
+217,OH,Black or African American,Total,21,0.40384615384615385
+210,OH,Hispanic or Latino,Female,1,0.019230769230769232
+209,OH,Black or African American,Male,14,0.2692307692307692
+208,OH,Black or African American,Female,7,0.1346153846153846
+362,OH,Total,Total,52,1.0
+361,OH,Total,Male,39,0.75
+360,OH,Total,Female,13,0.25
+212,OH,White,Female,5,0.09615384615384616
+211,OH,Multiracial,Male,2,0.038461538461538464
+223,OK,Black or African American,Total,3,0.15
+224,OK,Multiracial,Male,1,0.05
+219,OK,White,Female,7,0.35
+220,OK,White,Male,9,0.45
+222,OK,Multiracial,Total,1,0.05
+218,OK,Black or African American,Female,2,0.1
+225,OK,Black or African American,Male,1,0.05
+221,OK,White,Total,16,0.8
+365,OK,Total,Total,20,1.0
+364,OK,Total,Male,11,0.55
+363,OK,Total,Female,9,0.45
+228,OR,White,Male,1,0.2
+368,OR,Total,Total,5,1.0
+367,OR,Total,Male,1,0.2
+366,OR,Total,Female,4,0.8
+226,OR,White,Total,4,0.8
+227,OR,Black or African American,Total,1,0.2
+230,OR,Black or African American,Female,1,0.2
+229,OR,White,Female,3,0.6
+369,PA,Total,Female,14,0.3888888888888889
+370,PA,Total,Male,22,0.6111111111111112
+241,PA,White,Total,18,0.5
+232,PA,White,Female,5,0.1388888888888889
+233,PA,Black or African American,Male,8,0.2222222222222222
+234,PA,Black or African American,Female,7,0.19444444444444445
+235,PA,Asian American or Pacific Islander,Male,1,0.027777777777777776
+236,PA,Asian American or Pacific Islander,Female,1,0.027777777777777776
+237,PA,Hispanic or Latino,Female,1,0.027777777777777776
+238,PA,Asian American or Pacific Islander,Total,2,0.05555555555555555
+239,PA,Black or African American,Total,15,0.4166666666666667
+240,PA,Hispanic or Latino,Total,1,0.027777777777777776
+231,PA,White,Male,13,0.3611111111111111
+371,PA,Total,Total,36,1.0
+374,TN,Total,Total,14,1.0
+373,TN,Total,Male,9,0.6428571428571429
+372,TN,Total,Female,5,0.35714285714285715
+244,TN,Black or African American,Female,5,0.35714285714285715
+242,TN,Black or African American,Total,8,0.5714285714285714
+243,TN,White,Total,6,0.42857142857142855
+245,TN,Black or African American,Male,3,0.21428571428571427
+246,TN,White,Male,6,0.42857142857142855
+375,TX,Total,Female,46,0.3458646616541353
+376,TX,Total,Male,87,0.6541353383458647
+377,TX,Total,Total,133,1.0
+256,TX,Hispanic or Latino,Total,40,0.3007518796992481
+247,TX,Multiracial,Male,3,0.022556390977443608
+258,TX,Asian American or Pacific Islander,Total,2,0.015037593984962405
+257,TX,Black or African American,Total,22,0.16541353383458646
+259,TX,White,Female,19,0.14285714285714285
+254,TX,White,Male,47,0.3533834586466165
+253,TX,White,Total,66,0.49624060150375937
+255,TX,Multiracial,Total,3,0.022556390977443608
+251,TX,Black or African American,Female,11,0.08270676691729323
+250,TX,Black or African American,Male,11,0.08270676691729323
+249,TX,Hispanic or Latino,Female,14,0.10526315789473684
+248,TX,Hispanic or Latino,Male,26,0.19548872180451127
+252,TX,Asian American or Pacific Islander,Female,2,0.015037593984962405
+266,VA,Black or African American,Male,6,0.10714285714285714
+265,VA,Black or African American,Female,10,0.17857142857142858
+264,VA,Black or African American,Total,16,0.2857142857142857
+263,VA,White,Female,14,0.25
+262,VA,White,Male,25,0.44642857142857145
+261,VA,Multiracial,Total,1,0.017857142857142856
+378,VA,Total,Female,25,0.44642857142857145
+267,VA,Multiracial,Female,1,0.017857142857142856
+379,VA,Total,Male,31,0.5535714285714286
+380,VA,Total,Total,56,1.0
+260,VA,White,Total,39,0.6964285714285714
+381,WA,Total,Female,13,0.6842105263157895
+382,WA,Total,Male,6,0.3157894736842105
+383,WA,Total,Total,19,1.0
+268,WA,Asian American or Pacific Islander,Total,1,0.05263157894736842
+272,WA,Black or African American,Total,1,0.05263157894736842
+270,WA,Black or African American,Female,1,0.05263157894736842
+271,WA,Hispanic or Latino,Total,4,0.21052631578947367
+273,WA,White,Male,6,0.3157894736842105
+274,WA,White,Female,7,0.3684210526315789
+275,WA,Hispanic or Latino,Female,4,0.21052631578947367
+276,WA,White,Total,13,0.6842105263157895
+269,WA,Asian American or Pacific Islander,Female,1,0.05263157894736842
+384,WI,Total,Female,14,0.3684210526315789
+287,WI,White,Total,21,0.5526315789473685
+286,WI,Hispanic or Latino,Total,3,0.07894736842105263
+285,WI,Hispanic or Latino,Male,2,0.05263157894736842
+385,WI,Total,Male,24,0.631578947368421
+284,WI,Hispanic or Latino,Female,1,0.02631578947368421
+281,WI,American Indian or Alaska Native,Female,1,0.02631578947368421
+282,WI,Black or African American,Female,5,0.13157894736842105
+280,WI,White,Male,14,0.3684210526315789
+279,WI,White,Female,7,0.18421052631578946
+278,WI,American Indian or Alaska Native,Total,1,0.02631578947368421
+277,WI,Black or African American,Total,13,0.34210526315789475
+283,WI,Black or African American,Male,8,0.21052631578947367
+386,WI,Total,Total,38,1.0
