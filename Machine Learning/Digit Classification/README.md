@@ -1,0 +1,3 @@
+Aidan Jackson
+
+This notebook demonstrates an elementary exercise in using two machine learning algorithms, K-Nearest Neighbors and Naive Bayes, at classifying handwritten digits ranging from 0-9. Image classification is useful across many fields for both accelerating the processing of image data, for example in astronomy, as well as better predicting new information about a subject given an image, such as the presence of a disease from a medical scan. These two algorithms both are able to have a decent performance in this application with accuracy between 80-90%, although they are also known for their own individual drawbacks if used seriously at scale or in production. 
